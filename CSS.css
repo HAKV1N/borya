@@ -1,0 +1,40 @@
+.Kto_takov {
+	background-color: #bbbbbb;
+	width: 382px;
+}
+
+.Pochemy_pravil {
+	background-color: #bbbbbb;
+	width: 460px;
+}
+
+.Shto_sdelal {
+	background-color: #bbbbbb;
+	width: 563px;
+}
+
+.Vid {
+	background-color: #bbbbbb;
+	width: 442px;
+}
+
+.otvet {
+	background-color: red;
+	width: 100%;
+	font-size: 20px;
+	color: white;
+}
+
+.Otvet {
+	background-color: blue;
+	width: 100%;
+	font-size: 20px;
+	color: white;
+}
+
+.Otvet_sdelal {
+	background-color: green;
+	width: 100%;
+	font-size: 20px;
+	color: white;
+}
